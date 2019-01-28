@@ -1,11 +1,18 @@
-![alt text](https://github.com/nurfahmisidiq/Login-dan-CRUD/blob/master/kategori.jpg)
+ 
+Kategori
+ ![alt text](https://github.com/nurfahmisidiq/Login-dan-CRUD/blob/master/kategori.jpg)
 
-![alt text](https://github.com/nurfahmisidiq/Login-dan-CRUD/blob/master/insertpembeli.jpg)
+Tambah pelanggan
+ ![alt text](https://github.com/nurfahmisidiq/Login-dan-CRUD/blob/master/insertpembeli. jpg)
 
-![alt text](https://github.com/nurfahmisidiq/Login-dan-CRUD/blob/master/login.jpg)
+Login
+ ![alt text](https://github.com/nurfahmisidiq/Login-dan-CRUD/blob/master/login.jpg)
 
-![alt text](https://github.com/nurfahmisidiq/Login-dan-CRUD/blob/master/logout.jpg)
+Logout
+ ![alt text](https://github.com/nurfahmisidiq/Login-dan-CRUD/blob/master/logout.jpg)
 
-![alt text](https://github.com/nurfahmisidiq/Login-dan-CRUD/blob/master/pembeli.JPG)
+Pelanggan
+ ![alt text](https://github.com/nurfahmisidiq/Login-dan-CRUD/blob/master/pembeli.JPG)
 
-![alt text](https://github.com/nurfahmisidiq/Login-dan-CRUD/blob/master/tambahkategori.JPG)
+Tambah Kategori
+ ![alt text](https://github.com/nurfahmisidiq/Login-dan-CRUD/blob/master/tambahkategori.JPG)
